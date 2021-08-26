@@ -1,0 +1,33 @@
+.sangam{
+            
+    background-color:aqua;
+    background-image: url(foodie/logo.png.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.section1{
+    height: 150px;
+    background-color:rgba(30, 30, 65, 0.822);
+    color: white;
+
+}
+
+.section2{
+    height: 150px;
+    background-color:  #263e34;
+    color: white;
+
+}
+
+.pqr{
+    background-color: rgb(128, 113, 89);
+    color:white;
+}
+
+.contaner{
+    background-color: #517d79;
+}
+
